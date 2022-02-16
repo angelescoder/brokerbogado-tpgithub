@@ -38,4 +38,62 @@ header span{
     padding: 5px;
     border-radius: 5px;
 }
+.subir{
+    height: 50px;
+    width: 20px;
+    border: 2px;
+    position: fixed;
+    right: 30px;
+    bottom: 20px;
+}
+/* footer */
+.final{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(120, 190, 144);
+}
+.ley{
+    padding: 20px;
+    text-align: center;
+    text-transform: lowercase;
+    color: whitesmoke;
+    font-size: 20px;  
+}
+.redes{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.redes1{
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+.maps{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 30px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.dir{
+    margin-top: 10%;
+    text-align: center;
+    text-transform: uppercase;
+    color: whitesmoke;   
+}
+.fiscal{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
 
