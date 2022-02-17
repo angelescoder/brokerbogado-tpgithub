@@ -138,6 +138,28 @@ header span{
     text-align: center;
     margin-top: 20px;
 }
+/* diseño de aseguradoras que nos respaldan  */
+
+.aseg{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.aseg1{
+    background-color: cadetblue;
+    color: black;
+    text-transform:uppercase;
+    text-align: center;
+    margin: 20px;
+    height:50px;
+    transition:height 2s;
+
+}
+.aseg1:hover:hover{
+    height: 100px;
+}
+
+
 
 
 
