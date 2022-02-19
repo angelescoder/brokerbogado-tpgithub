@@ -58,6 +58,7 @@ header span{
     text-transform: lowercase;
     color: whitesmoke;
     font-size: 20px;  
+    text-transform: uppercase;
 }
 .redes{
     display: flex;
